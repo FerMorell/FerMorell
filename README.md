@@ -1,16 +1,47 @@
-## Hi there 👋
+## Hi there 👋🌸
 
-<!--
-**FerMorell/FerMorell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Fer 👩‍💻
+A developer in progress, currently in my final year of studies and building projects to grow every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌸 **About me**
+
+* 🌱 Currently learning and improving my dev skills
+* 🔭 Working on personal projects
+* 💡 I love clean code & simple, aesthetic designs
+* ⚡ Detail-oriented and always curious
+
+---
+
+🌸 **Tech stack**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
+
+---
+
+🌸 **GitHub stats**
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=FerMorell&show_icons=true&theme=rose_pine&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerMorell&layout=compact&theme=rose_pine&hide_border=true" height="150"/>
+</p>
+
+---
+
+🌸 **Let’s connect**
+
+<p>
+  <a href="mailto:morellifernanda02@gmail.com">
+    <img src="https://img.shields.io/badge/email-soft%20pink?style=for-the-badge&logo=gmail&logoColor=white&color=F8BBD0" />
+  </a>
+  <a href="https://www.linkedin.com/in/fernanda-morelli/">
+    <img src="https://img.shields.io/badge/linkedin-soft%20blue?style=for-the-badge&logo=linkedin&logoColor=white&color=B3E5FC" />
+  </a>
+</p>
+
+---
+
+🌸 *“Small details make big differences.”*
