@@ -17,7 +17,7 @@ A developer in progress, currently in my final year of studies and building proj
 🌸 **Tech stack**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,php" />
 </p>
 
 ---
