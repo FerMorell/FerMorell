@@ -1,7 +1,7 @@
 ## Hi there 👋🌸
 
 I’m Fer 👩‍💻
-A developer in progress, currently building projects to grow every day.
+A developer, currently building projects to grow every day.
 
 ---
 
