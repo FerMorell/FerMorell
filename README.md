@@ -25,7 +25,11 @@
 ## `$ whoami`
 
 <p align="center">
-  <img src="assets/whoami.svg" width="960" alt="Terminal-style introduction for Fer Morelli">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/whoami.svg">
+    <img src="assets/whoami.svg" width="960" alt="Terminal-style introduction for Fer Morelli">
+  </picture>
 </p>
 
 ---
@@ -36,9 +40,10 @@
 
 <table>
 <tr>
+
 <td width="50%" valign="top" align="center">
 
-### ☕ Backend
+<h3>☕ Backend</h3>
 
 <br>
 
@@ -52,7 +57,7 @@
 
 <td width="50%" valign="top" align="center">
 
-### 🌐 Frontend
+<h3>🌐 Frontend</h3>
 
 <br>
 
@@ -63,12 +68,14 @@
 <code>HTML · CSS · JavaScript · React · Next.js</code>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top" align="center">
 
-### 📱 Mobile
+<h3>📱 Mobile</h3>
 
 <br>
 
@@ -82,17 +89,18 @@
 
 <td width="50%" valign="top" align="center">
 
-### 🗄️ Data & Tools
+<h3>🗄️ Data & Tools</h3>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,idea" alt="MySQL, PostgreSQL, Git, GitHub, VS Code and IntelliJ">
+<img src="https://skillicons.dev/icons?i=mysql,oracle,git,github,vscode,idea" alt="SQL, Oracle, Git, GitHub, VS Code and IntelliJ">
 
 <br><br>
 
-<code>SQL · Git · GitHub · VS Code · IntelliJ</code>
+<code>SQL · Oracle · Git · GitHub · VS Code · IntelliJ</code>
 
 </td>
+
 </tr>
 </table>
 
@@ -104,7 +112,11 @@
 
 <div align="center">
 
-<img src="assets/projects.svg" width="960" alt="Featured projects">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/projects.svg">
+  <img src="assets/projects.svg" width="960" alt="Featured projects">
+</picture>
 
 <br><br>
 
@@ -112,6 +124,13 @@
   <img src="https://img.shields.io/badge/Plantify%20AI-React%20%7C%20Next.js-CE93D8?style=for-the-badge&logo=next.js&logoColor=white" alt="Plantify AI">
 </a>
 
+<a href="https://github.com/FerMorell/BTS-Sopa-de-letras">
+  <img src="https://img.shields.io/badge/BTS%20Sopa%20de%20Letras-Java-F8BBD0?style=for-the-badge&logo=openjdk&logoColor=white" alt="BTS Sopa de Letras">
+</a>
+
+<a href="https://github.com/FerMorell/CitasMedicas">
+  <img src="https://img.shields.io/badge/Citas%20Médicas-Java-B3E5FC?style=for-the-badge&logo=openjdk&logoColor=white" alt="Citas Médicas">
+</a>
 
 </div>
 
