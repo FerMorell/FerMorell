@@ -14,9 +14,7 @@
 <g font-family="JetBrains Mono,Consolas,monospace">
 <text x="55" y="58" fill="#f48fb1" font-size="15">$ git log --oneline --projects</text>
 <g fill="#f8f4f7" font-size="15">
-<text x="55" y="95">🌿  DevTrack</text><text x="300" y="95" fill="#ce93d8">Java · Spring Boot · SQL</text>
 <text x="55" y="132">🌱  Plantify AI</text><text x="300" y="132" fill="#ce93d8">React · Next.js · TypeScript</text>
-<text x="55" y="169">🎵  Music Maze</text><text x="300" y="169" fill="#ce93d8">Flutter · Dart</text>
 <text x="55" y="206">🧩  BTS Sopa de Letras</text><text x="300" y="206" fill="#ce93d8">Java</text>
 <text x="55" y="243">🏥  Citas Médicas</text><text x="300" y="243" fill="#ce93d8">Java</text>
 </g>
