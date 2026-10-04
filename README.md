@@ -1,15 +1,17 @@
 <div align="center">
 
-<!-- 🌸 PROFILE HEADER -->
-
 <a href="https://github.com/FerMorell">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:F48FB1,100:CE93D8&height=180&section=header&text=Fer%20Morelli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Software%20Developer&descAlignY=55&descSize=18" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner-light.svg" width="960" alt="Fer Morelli — Junior Software Developer">
+  </picture>
 </a>
 
 <br>
 
 <a href="https://github.com/FerMorell">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F48FB1&center=true&vCenter=true&width=900&lines=Fer+Morelli+%E2%80%94+Junior+Software+Developer;Java+%7C+Spring+Boot+%7C+SQL+%7C+Kotlin;Backend+%E2%80%A2+Frontend+%E2%80%A2+Mobile+Development;Always+learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%8C%B8" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=F48FB1&center=true&vCenter=true&width=900&lines=Fer+Morelli+%E2%80%94+Junior+Software+Developer;Java+%7C+Spring+Boot+%7C+SQL;Backend+%E2%80%A2+Frontend+%E2%80%A2+Mobile;Always+learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%8C%B8" alt="Typing animation">
 </a>
 
 <br>
@@ -22,52 +24,9 @@
 
 ## `$ whoami`
 
-<div align="center">
-
-### 🌸 Hi, I'm Fer!
-
-**Junior Software Developer based in Madrid 🇪🇸**
-
-I'm a developer who enjoys building applications, learning new technologies and improving a little every day.
-
-I mainly work with **Java and backend development**, while also having experience with **frontend and mobile development**.
-
-> 💗 *Code, learn, build, repeat.*
-
-</div>
-
----
-
-## `$ cat about-me.yaml`
-
-```yaml
-name: Fer Morelli
-role: Junior Software Developer
-location: Madrid, Spain
-
-focus:
-  - Backend Development
-  - Java & Spring Boot
-  - REST APIs
-  - SQL & Databases
-
-also_exploring:
-  - Frontend Development
-  - Mobile Development
-  - React / Next.js
-  - Flutter
-  - Kotlin
-
-currently:
-  - Building personal projects
-  - Improving my software development skills
-  - Learning new technologies
-
-mindset:
-  - Curious
-  - Detail-oriented
-  - Always learning
-```
+<p align="center">
+  <img src="assets/whoami.svg" width="960" alt="Terminal-style introduction for Fer Morelli">
+</p>
 
 ---
 
@@ -79,61 +38,51 @@ mindset:
   <tr>
     <td width="50%" valign="top">
 
-### ☕ Backend
+### ☕ backend
 
-<p>
 <img src="https://skillicons.dev/icons?i=java,spring,php" />
-</p>
 
-`Java` · `Spring Boot` · `PHP`
+<br><br>
 
-```
-</td>
-<td width="50%" valign="top">
-```
+<code>Java · Spring Boot · PHP</code>
 
-### 🌐 Frontend
+    </td>
+    <td width="50%" valign="top">
 
-<p>
+### 🌐 frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs" />
-</p>
 
-`HTML` · `CSS` · `JavaScript` · `React` · `Next.js`
+<br><br>
 
-```
-</td>
-```
+<code>HTML · CSS · JavaScript · React · Next.js</code>
 
+    </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
 
-### 📱 Mobile
+### 📱 mobile
 
-<p>
 <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart" />
-</p>
 
-`Kotlin` · `Flutter` · `Dart`
+<br><br>
 
-```
-</td>
-<td width="50%" valign="top">
-```
+<code>Kotlin · Flutter · Dart</code>
 
-### 🗄️ Databases & Tools
+    </td>
+    <td width="50%" valign="top">
 
-<p>
+### 🗄️ data & tools
+
 <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,idea" />
-</p>
 
-`SQL` · `Git` · `GitHub` · `VS Code` · `IntelliJ`
+<br><br>
 
-```
-</td>
-```
+<code>SQL · Git · GitHub · VS Code · IntelliJ</code>
 
+    </td>
   </tr>
 </table>
 
@@ -143,53 +92,75 @@ mindset:
 
 ## `$ git log --projects`
 
-### 🌱 Featured Projects
-
-| Project                   | Technologies                          | Description                                           |
-| ------------------------- | ------------------------------------- | ----------------------------------------------------- |
-| 🌿 **Plantify AI**        | React · Next.js · TypeScript · AI SDK | Plant recommendation and e-commerce style application |
-| 💼 **DevTrack**           | Java · Spring Boot · SQL              | Backend application focused on job-search management  |
-| 🎵 **Music Maze**         | Flutter · Dart                        | Music-based application with Spotify integration      |
-| 🧩 **BTS Sopa de Letras** | Java                                  | Interactive word-search game                          |
-| 🏥 **Citas Médicas**      | Java                                  | Medical appointment management application            |
+<div align="center">
+  <img src="assets/projects.svg" width="960" alt="Featured projects">
+</div>
 
 <br>
 
 <div align="center">
 
-<a href="https://github.com/FerMorell">
-  <img src="https://img.shields.io/badge/View%20all%20projects-FerMorell-F8BBD0?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/FerMorell/DevTrack">
+  <img src="https://img.shields.io/badge/DevTrack-Java%20%7C%20Spring%20Boot-F48FB1?style=for-the-badge&logo=java&logoColor=white" />
+</a>
+
+<a href="https://github.com/FerMorell/plantify-ai">
+  <img src="https://img.shields.io/badge/Plantify%20AI-React%20%7C%20Next.js-CE93D8?style=for-the-badge&logo=next.js&logoColor=white" />
+</a>
+
+<a href="https://github.com/FerMorell/Music-Maze">
+  <img src="https://img.shields.io/badge/Music%20Maze-Flutter%20%7C%20Dart-B3E5FC?style=for-the-badge&logo=flutter&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
+## `$ kubectl get signals`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+    <img src="assets/radar-light.svg" width="430" alt="Development focus radar">
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-tech-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-tech-light.svg">
+    <img src="assets/radar-tech-light.svg" width="430" alt="Technology focus radar">
+  </picture>
+</p>
+
+<p align="center">
+  <sub><code>signals: backend · frontend · mobile · databases · tooling · learning</code></sub>
+</p>
+
+---
+
 ## `$ git status`
 
 ```text
-🌸 Currently learning...
+On branch: learning
 
-[████████████████░░░░] Java & Spring Boot
-[██████████████░░░░░░] Backend Development
-[████████████░░░░░░░░] Frontend Development
-[███████████░░░░░░░░░] Mobile Development
+✓ building personal projects
+✓ improving backend skills
+✓ exploring frontend & mobile
+✓ learning new technologies
 
-status: learning
-environment: always improving
+status: curious
+status: building
+status: always improving 🌸
 ```
 
 ---
 
 ## `$ git stats`
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FerMorell&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerMorell&layout=compact&theme=rose_pine&hide_border=true" height="165"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FerMorell&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerMorell&layout=compact&theme=rose_pine&hide_border=true" height="165" alt="Top languages">
+</p>
 
 ---
 
@@ -198,15 +169,15 @@ environment: always improving
 <div align="center">
 
 <a href="mailto:morellifernanda02@gmail.com">
-  <img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <a href="https://www.linkedin.com/in/fernanda-morelli/">
-  <img src="https://img.shields.io/badge/LinkedIn-B3E5FC?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-B3E5FC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://github.com/FerMorell">
-  <img src="https://img.shields.io/badge/GitHub-CE93D8?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-CE93D8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 </div>
@@ -215,8 +186,10 @@ environment: always improving
 
 <div align="center">
 
-🌸 **Building things, learning things, becoming better every day.**
+🌸 <b>Building things, learning things, becoming better every day.</b>
 
-<sub>Made with 💗, code and a little bit of cherry-blossom energy.</sub>
+<br><br>
+
+<sub>Made with 💗, code and a little cherry-blossom energy.</sub>
 
 </div>
