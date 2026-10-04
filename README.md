@@ -108,10 +108,6 @@
 
 <br><br>
 
-<a href="https://github.com/FerMorell/DevTrack">
-  <img src="https://img.shields.io/badge/DevTrack-Java%20%7C%20Spring%20Boot-F48FB1?style=for-the-badge&logo=java&logoColor=white" alt="DevTrack">
-</a>
-
 <a href="https://github.com/FerMorell/plantify-ai">
   <img src="https://img.shields.io/badge/Plantify%20AI-React%20%7C%20Next.js-CE93D8?style=for-the-badge&logo=next.js&logoColor=white" alt="Plantify AI">
 </a>
