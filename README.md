@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <a href="https://github.com/FerMorell">
@@ -118,6 +119,7 @@
   <img src="assets/projects.svg" width="960" alt="Featured projects">
 </picture>
 
+<br><br>
 
 <a href="https://github.com/FerMorell/plantify-ai">
   <img src="https://img.shields.io/badge/Plantify%20AI-React%20%7C%20Next.js-CE93D8?style=for-the-badge&logo=next.js&logoColor=white" alt="Plantify AI">
@@ -145,7 +147,7 @@
     <img src="assets/radar-light.svg" width="430" alt="Development focus radar">
   </picture>
 
-  
+  &nbsp;&nbsp;
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/radar-tech-dark.svg">
@@ -176,7 +178,7 @@ On branch: learning
 status: curious
 status: building
 status: always improving 🌸
-```
+````
 
 ---
 
