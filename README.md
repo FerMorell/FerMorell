@@ -112,9 +112,6 @@
   <img src="https://img.shields.io/badge/Plantify%20AI-React%20%7C%20Next.js-CE93D8?style=for-the-badge&logo=next.js&logoColor=white" alt="Plantify AI">
 </a>
 
-<a href="https://github.com/FerMorell/Music-Maze">
-  <img src="https://img.shields.io/badge/Music%20Maze-Flutter%20%7C%20Dart-B3E5FC?style=for-the-badge&logo=flutter&logoColor=white" alt="Music Maze">
-</a>
 
 </div>
 
