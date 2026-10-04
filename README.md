@@ -35,55 +35,65 @@
 ## `$ cat tech-stack.yaml`
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top" align="center">
 
-### ☕ backend
+### ☕ Backend
 
-<img src="https://skillicons.dev/icons?i=java,spring,php" />
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,spring,php" alt="Java, Spring Boot and PHP">
 
 <br><br>
 
 <code>Java · Spring Boot · PHP</code>
 
-    </td>
-    <td width="50%" valign="top">
+</td>
 
-### 🌐 frontend
+<td width="50%" valign="top" align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs" />
+### 🌐 Frontend
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs" alt="HTML, CSS, JavaScript, React and Next.js">
 
 <br><br>
 
 <code>HTML · CSS · JavaScript · React · Next.js</code>
 
-    </td>
-  </tr>
+</td>
+</tr>
 
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top" align="center">
 
-### 📱 mobile
+### 📱 Mobile
 
-<img src="https://skillicons.dev/icons?i=kotlin,flutter,dart" />
+<br>
+
+<img src="https://skillicons.dev/icons?i=kotlin,flutter,dart" alt="Kotlin, Flutter and Dart">
 
 <br><br>
 
 <code>Kotlin · Flutter · Dart</code>
 
-    </td>
-    <td width="50%" valign="top">
+</td>
 
-### 🗄️ data & tools
+<td width="50%" valign="top" align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,idea" />
+### 🗄️ Data & Tools
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,idea" alt="MySQL, PostgreSQL, Git, GitHub, VS Code and IntelliJ">
 
 <br><br>
 
 <code>SQL · Git · GitHub · VS Code · IntelliJ</code>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 </div>
@@ -93,47 +103,51 @@
 ## `$ git log --projects`
 
 <div align="center">
-  <img src="assets/projects.svg" width="960" alt="Featured projects">
-</div>
 
-<br>
+<img src="assets/projects.svg" width="960" alt="Featured projects">
 
-<div align="center">
+<br><br>
 
 <a href="https://github.com/FerMorell/DevTrack">
-  <img src="https://img.shields.io/badge/DevTrack-Java%20%7C%20Spring%20Boot-F48FB1?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevTrack-Java%20%7C%20Spring%20Boot-F48FB1?style=for-the-badge&logo=java&logoColor=white" alt="DevTrack">
 </a>
 
 <a href="https://github.com/FerMorell/plantify-ai">
-  <img src="https://img.shields.io/badge/Plantify%20AI-React%20%7C%20Next.js-CE93D8?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plantify%20AI-React%20%7C%20Next.js-CE93D8?style=for-the-badge&logo=next.js&logoColor=white" alt="Plantify AI">
 </a>
 
 <a href="https://github.com/FerMorell/Music-Maze">
-  <img src="https://img.shields.io/badge/Music%20Maze-Flutter%20%7C%20Dart-B3E5FC?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Music%20Maze-Flutter%20%7C%20Dart-B3E5FC?style=for-the-badge&logo=flutter&logoColor=white" alt="Music Maze">
 </a>
 
 </div>
 
 ---
 
-## `$ kubectl get signals`
+## `$ development --focus`
 
 <p align="center">
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
     <img src="assets/radar-light.svg" width="430" alt="Development focus radar">
   </picture>
-  &nbsp;&nbsp;
+
+  
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/radar-tech-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/radar-tech-light.svg">
     <img src="assets/radar-tech-light.svg" width="430" alt="Technology focus radar">
   </picture>
+
 </p>
 
 <p align="center">
-  <sub><code>signals: backend · frontend · mobile · databases · tooling · learning</code></sub>
+  <sub>
+    <code>focus: backend · frontend · mobile · databases · APIs · continuous learning</code>
+  </sub>
 </p>
 
 ---
@@ -155,11 +169,14 @@ status: always improving 🌸
 
 ---
 
-## `$ git stats`
+## `$ github --stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FerMorell&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerMorell&layout=compact&theme=rose_pine&hide_border=true" height="165" alt="Top languages">
+
+<img src="https://github-readme-stats.vercel.app/api?username=FerMorell&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerMorell&layout=compact&theme=rose_pine&hide_border=true" height="165" alt="Top languages">
+
 </p>
 
 ---
